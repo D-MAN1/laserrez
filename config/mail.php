@@ -56,7 +56,7 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'akopov05@yandex.ru'),
+        'address' => env('MAIL_FROM_ADDRESS', '..@yandex.ru'),
         'name' => env('MAIL_FROM_NAME', 'LazerRez'),
     ],
 
