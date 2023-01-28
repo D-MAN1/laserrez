@@ -1,0 +1,16 @@
+.header-image{
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    outline: 1px solid red;
+    background-attachment: scroll;
+    /* height: 100%; */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.header-text{
+    position: relative;
+    z-index: 11;
+}  
